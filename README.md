@@ -49,4 +49,4 @@ Using `Object.entries` (which uses array destructing), print out each key and va
 
 
 ### Bonus
-Modify one of the for... in loops and print out each hobbie inside of the array.
+Modify one of the for... of loops and print out each hobbie inside of the array.
